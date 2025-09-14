@@ -1,2 +1,2 @@
-module github.com/yourorg/site-huaqiao
-require github.com/yourorg/hugo-base v0.1.0
+module github.com/brandomy/site-huaqiao
+require github.com/brandomy/hugo-base v0.1.0
