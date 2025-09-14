@@ -1,0 +1,4 @@
+baseURL = "https://hqf.asia/"
+title = "HuaQiao Foundation"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
